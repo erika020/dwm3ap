@@ -3,3 +3,5 @@
 3. git remote add origin https://github.com/erika020/dwm3ap.git
 4. git branch -M main
 5. qué quiero subir: git add . (sube todo)
+6. gif config user.email - git config user.name
+7. git commit -m "mensaje"
